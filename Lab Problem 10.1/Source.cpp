@@ -19,8 +19,7 @@ int main() {
     return 0;
 }
 
-string scramble(string word)
-{
+string scramble(string word) {
     int length = word.length();
     int i = 1;
     
